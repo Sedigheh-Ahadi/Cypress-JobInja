@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "cypress": "^15.9.0"
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.5"
   }
 }
